@@ -67,7 +67,7 @@ img{
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(/assets/images/icon-view.svg);
+    background-image: url("../assets/images/icon-view.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-color: var(--very-soft-cyan);
@@ -105,7 +105,7 @@ img{
     display: inline-block;
     width: 11px;
     height: 18px;
-    background-image: url("/assets/images/icon-ethereum.svg");
+    background-image: url("../assets/images/icon-ethereum.svg");
 }
 
 
@@ -119,7 +119,7 @@ img{
     content: "";
     width: 17px;
     height: 17px;
-    background-image: url("/assets/images/icon-clock.svg");
+    background-image: url("../assets/images/icon-clock.svg");
 }
 
 .creator{
